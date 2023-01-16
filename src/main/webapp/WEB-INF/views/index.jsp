@@ -2,7 +2,7 @@
 uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
   <body>
-    <h1>Seohuen Naganda</h1>
-    광쿤 러브 미
+    <h1>Jiwon Naganda</h1>
+    i'm wonkun
   </body>
 </html>
